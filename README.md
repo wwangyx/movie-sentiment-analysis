@@ -1,2 +1,2 @@
 # movie-sentiment-analysis
-## 具体内容见
+## 详细内容见：mini_project report
